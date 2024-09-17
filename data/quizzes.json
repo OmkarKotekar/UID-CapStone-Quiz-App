@@ -1,0 +1,623 @@
+{
+    "physics": {
+        "title": "MHT-CET Physics Quiz",
+        "description": "Test your knowledge of physics with previous year questions from MHT-CET.",
+        "questions": [
+            {
+                "question": "A body is projected vertically upwards with an initial velocity of 98 m/s. After how much time will it reach the highest point?",
+                "options": [
+                    "5 s",
+                    "9.8 s",
+                    "10 s",
+                    "20 s"
+                ],
+                "answer": "10 s"
+            },
+            {
+                "question": "What is the SI unit of force?",
+                "options": [
+                    "Newton",
+                    "Joule",
+                    "Pascal",
+                    "Watt"
+                ],
+                "answer": "Newton"
+            },
+            {
+                "question": "The acceleration due to gravity on the surface of the Earth is approximately:",
+                "options": [
+                    "9.8 m/s²",
+                    "10 m/s²",
+                    "8 m/s²",
+                    "11 m/s²"
+                ],
+                "answer": "9.8 m/s²"
+            },
+            {
+                "question": "Which of the following is a scalar quantity?",
+                "options": [
+                    "Velocity",
+                    "Force",
+                    "Acceleration",
+                    "Mass"
+                ],
+                "answer": "Mass"
+            },
+            {
+                "question": "What is the speed of light in vacuum?",
+                "options": [
+                    "3 x 10^8 m/s",
+                    "2 x 10^8 m/s",
+                    "1 x 10^8 m/s",
+                    "4 x 10^8 m/s"
+                ],
+                "answer": "3 x 10^8 m/s"
+            },
+            {
+                "question": "A stone is dropped from the top of a tower. It reaches the ground after 4 seconds. What is the height of the tower?",
+                "options": [
+                    "20 m",
+                    "40 m",
+                    "80 m",
+                    "160 m"
+                ],
+                "answer": "80 m"
+            },
+            {
+                "question": "Which of the following has the highest frequency?",
+                "options": [
+                    "Radio waves",
+                    "Microwaves",
+                    "X-rays",
+                    "Gamma rays"
+                ],
+                "answer": "Gamma rays"
+            },
+            {
+                "question": "An object moves with uniform velocity. Which of the following is true?",
+                "options": [
+                    "Net force on the object is zero",
+                    "Acceleration is constant",
+                    "Object is slowing down",
+                    "Object is speeding up"
+                ],
+                "answer": "Net force on the object is zero"
+            },
+            {
+                "question": "If two resistors of 10 Ω and 20 Ω are connected in series, what is the equivalent resistance?",
+                "options": [
+                    "5 Ω",
+                    "10 Ω",
+                    "20 Ω",
+                    "30 Ω"
+                ],
+                "answer": "30 Ω"
+            },
+            {
+                "question": "The work done by a force is zero when:",
+                "options": [
+                    "Force is perpendicular to displacement",
+                    "Force is parallel to displacement",
+                    "Force is applied at an angle",
+                    "Displacement is zero"
+                ],
+                "answer": "Force is perpendicular to displacement"
+            },
+            {
+                "question": "In a concave mirror, if the object is placed at the center of curvature, the image will be:",
+                "options": [
+                    "Virtual and erect",
+                    "Real and inverted",
+                    "At infinity",
+                    "Diminished"
+                ],
+                "answer": "Real and inverted"
+            },
+            {
+                "question": "What is the dimensional formula of angular momentum?",
+                "options": [
+                    "ML²T⁻¹",
+                    "MLT⁻²",
+                    "M²L⁻¹T²",
+                    "MLT²"
+                ],
+                "answer": "ML²T⁻¹"
+            },
+            {
+                "question": "The magnetic field inside a long straight solenoid is:",
+                "options": [
+                    "Zero",
+                    "Constant",
+                    "Varies with distance",
+                    "Depends on current"
+                ],
+                "answer": "Constant"
+            },
+            {
+                "question": "An object is placed 10 cm from a convex lens of focal length 20 cm. The image formed will be:",
+                "options": [
+                    "Virtual and erect",
+                    "Real and inverted",
+                    "At infinity",
+                    "Same size as object"
+                ],
+                "answer": "Virtual and erect"
+            },
+            {
+                "question": "Which of the following waves is used in radar?",
+                "options": [
+                    "Microwaves",
+                    "Sound waves",
+                    "Infrared waves",
+                    "Ultraviolet waves"
+                ],
+                "answer": "Microwaves"
+            },
+            {
+                "question": "What is the time period of a pendulum on the moon compared to Earth?",
+                "options": [
+                    "Longer",
+                    "Shorter",
+                    "Same",
+                    "Depends on gravity"
+                ],
+                "answer": "Longer"
+            },
+            {
+                "question": "Which of the following quantities is conserved in an elastic collision?",
+                "options": [
+                    "Kinetic energy",
+                    "Potential energy",
+                    "Momentum",
+                    "Both kinetic energy and momentum"
+                ],
+                "answer": "Both kinetic energy and momentum"
+            },
+            {
+                "question": "When a light ray enters from air to glass, which of the following will remain constant?",
+                "options": [
+                    "Speed",
+                    "Wavelength",
+                    "Frequency",
+                    "Direction"
+                ],
+                "answer": "Frequency"
+            },
+            {
+                "question": "The escape velocity of an object from the surface of the Earth is approximately:",
+                "options": [
+                    "9.8 m/s",
+                    "11.2 km/s",
+                    "5 km/s",
+                    "12.6 m/s"
+                ],
+                "answer": "11.2 km/s"
+            },
+            {
+                "question": "Which of the following devices converts mechanical energy into electrical energy?",
+                "options": [
+                    "Electric motor",
+                    "Generator",
+                    "Transformer",
+                    "Capacitor"
+                ],
+                "answer": "Generator"
+            }
+        ],
+        "duration": 1200
+    },
+    "mathematics": {
+        "title": "MHT-CET Mathematics Quiz",
+        "description": "Challenge your math skills with these MHT-CET previous year questions.",
+        "questions": [
+            {
+                "question": "What is the derivative of sin(x)?",
+                "options": [
+                    "cos(x)",
+                    "-cos(x)",
+                    "sin(x)",
+                    "-sin(x)"
+                ],
+                "answer": "cos(x)"
+            },
+            {
+                "question": "If f(x) = x² + 3x, what is f'(x)?",
+                "options": [
+                    "2x + 3",
+                    "2x",
+                    "x² + 3",
+                    "3x² + x"
+                ],
+                "answer": "2x + 3"
+            },
+            {
+                "question": "The value of the determinant of a 2x2 matrix [[a, b], [c, d]] is:",
+                "options": [
+                    "ad + bc",
+                    "ab - cd",
+                    "ad - bc",
+                    "ab + cd"
+                ],
+                "answer": "ad - bc"
+            },
+            {
+                "question": "What is the integral of 1/x?",
+                "options": [
+                    "ln(x)",
+                    "x",
+                    "1/x²",
+                    "x²"
+                ],
+                "answer": "ln(x)"
+            },
+            {
+                "question": "What is the solution to the equation 2x + 5 = 15?",
+                "options": [
+                    "x = 5",
+                    "x = 10",
+                    "x = 0",
+                    "x = -5"
+                ],
+                "answer": "x = 5"
+            },
+            {
+                "question": "If a = 3 and b = 4, what is the value of a² + b²?",
+                "options": [
+                    "7",
+                    "25",
+                    "9",
+                    "16"
+                ],
+                "answer": "25"
+            },
+            {
+                "question": "What is the sum of the first 10 natural numbers?",
+                "options": [
+                    "45",
+                    "55",
+                    "65",
+                    "75"
+                ],
+                "answer": "55"
+            },
+            {
+                "question": "The equation of a circle with center (0,0) and radius 5 is:",
+                "options": [
+                    "x² + y² = 5",
+                    "x² + y² = 25",
+                    "x + y = 5",
+                    "x² - y² = 25"
+                ],
+                "answer": "x² + y² = 25"
+            },
+            {
+                "question": "If the roots of the quadratic equation ax² + bx + c = 0 are real and equal, then:",
+                "options": [
+                    "b² - 4ac > 0",
+                    "b² - 4ac < 0",
+                    "b² - 4ac = 0",
+                    "None of the above"
+                ],
+                "answer": "b² - 4ac = 0"
+            },
+            {
+                "question": "The probability of getting a head when flipping a fair coin is:",
+                "options": [
+                    "1",
+                    "1/2",
+                    "1/4",
+                    "2/3"
+                ],
+                "answer": "1/2"
+            },
+            {
+                "question": "The area of a triangle with base 5 and height 10 is:",
+                "options": [
+                    "25",
+                    "50",
+                    "15",
+                    "100"
+                ],
+                "answer": "25"
+            },
+            {
+                "question": "What is the value of cos(90°)?",
+                "options": [
+                    "0",
+                    "1",
+                    "-1",
+                    "undefined"
+                ],
+                "answer": "0"
+            },
+            {
+                "question": "If sin(θ) = 1/2, what is the value of θ in degrees?",
+                "options": [
+                    "0°",
+                    "30°",
+                    "45°",
+                    "60°"
+                ],
+                "answer": "30°"
+            },
+            {
+                "question": "If log(a) = 2 and log(b) = 3, what is log(ab)?",
+                "options": [
+                    "5",
+                    "6",
+                    "log(a) + log(b)",
+                    "log(a) - log(b)"
+                ],
+                "answer": "5"
+            },
+            {
+                "question": "The solution to the equation x² - 4x + 4 = 0 is:",
+                "options": [
+                    "x = 2",
+                    "x = -2",
+                    "x = 0",
+                    "x = 4"
+                ],
+                "answer": "x = 2"
+            },
+            {
+                "question": "The point of intersection of the x-axis and y-axis is called the:",
+                "options": [
+                    "Origin",
+                    "X-intercept",
+                    "Y-intercept",
+                    "Coordinate"
+                ],
+                "answer": "Origin"
+            },
+            {
+                "question": "The angle sum of a triangle is:",
+                "options": [
+                    "180°",
+                    "360°",
+                    "90°",
+                    "270°"
+                ],
+                "answer": "180°"
+            },
+            {
+                "question": "If the radius of a circle is doubled, the area will:",
+                "options": [
+                    "Double",
+                    "Quadruple",
+                    "Remain the same",
+                    "Halve"
+                ],
+                "answer": "Quadruple"
+            },
+            {
+                "question": "If x² - 4x + 3 = 0, what are the roots of the equation?",
+                "options": [
+                    "x = 1 and x = 3",
+                    "x = -1 and x = -3",
+                    "x = 0 and x = 1",
+                    "x = 2 and x = -2"
+                ],
+                "answer": "x = 1 and x = 3"
+            },
+            {
+                "question": "The sum of the angles in a quadrilateral is:",
+                "options": [
+                    "180°",
+                    "360°",
+                    "90°",
+                    "270°"
+                ],
+                "answer": "360°"
+            }
+        ],
+        "duration": 1200
+    },
+    "chemistry": {
+        "title": "MHT-CET Chemistry Quiz",
+        "description": "Test your chemistry knowledge with past MHT-CET questions.",
+        "questions": [
+            {
+                "question": "Which of the following is an alkaline earth metal?",
+                "options": [
+                    "Sodium",
+                    "Magnesium",
+                    "Potassium",
+                    "Iron"
+                ],
+                "answer": "Magnesium"
+            },
+            {
+                "question": "What is the formula for the compound formed between calcium and chlorine?",
+                "options": [
+                    "CaCl",
+                    "CaCl2",
+                    "Ca2Cl",
+                    "CaCl3"
+                ],
+                "answer": "CaCl2"
+            },
+            {
+                "question": "What is the pH of a neutral solution at 25°C?",
+                "options": [
+                    "7",
+                    "5",
+                    "9",
+                    "0"
+                ],
+                "answer": "7"
+            },
+            {
+                "question": "Which gas is released during photosynthesis?",
+                "options": [
+                    "Oxygen",
+                    "Carbon Dioxide",
+                    "Nitrogen",
+                    "Hydrogen"
+                ],
+                "answer": "Oxygen"
+            },
+            {
+                "question": "What is the molar mass of water (H2O)?",
+                "options": [
+                    "18 g/mol",
+                    "32 g/mol",
+                    "44 g/mol",
+                    "28 g/mol"
+                ],
+                "answer": "18 g/mol"
+            },
+            {
+                "question": "Which element has the highest electronegativity?",
+                "options": [
+                    "Fluorine",
+                    "Chlorine",
+                    "Oxygen",
+                    "Nitrogen"
+                ],
+                "answer": "Fluorine"
+            },
+            {
+                "question": "Which of the following is a noble gas?",
+                "options": [
+                    "Oxygen",
+                    "Nitrogen",
+                    "Helium",
+                    "Hydrogen"
+                ],
+                "answer": "Helium"
+            },
+            {
+                "question": "The process of converting a liquid into vapor is called:",
+                "options": [
+                    "Condensation",
+                    "Evaporation",
+                    "Sublimation",
+                    "Freezing"
+                ],
+                "answer": "Evaporation"
+            },
+            {
+                "question": "In an endothermic reaction, heat is:",
+                "options": [
+                    "Absorbed",
+                    "Released",
+                    "Not involved",
+                    "Neutral"
+                ],
+                "answer": "Absorbed"
+            },
+            {
+                "question": "Which of the following is an example of a covalent bond?",
+                "options": [
+                    "NaCl",
+                    "MgO",
+                    "H2O",
+                    "CaCl2"
+                ],
+                "answer": "H2O"
+            },
+            {
+                "question": "Which of the following solutions will conduct electricity?",
+                "options": [
+                    "Pure water",
+                    "Saltwater",
+                    "Sugar solution",
+                    "Distilled water"
+                ],
+                "answer": "Saltwater"
+            },
+            {
+                "question": "What is the valency of nitrogen in ammonia (NH3)?",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "5"
+                ],
+                "answer": "3"
+            },
+            {
+                "question": "What is the common name for sodium bicarbonate?",
+                "options": [
+                    "Baking soda",
+                    "Table salt",
+                    "Bleach",
+                    "Vinegar"
+                ],
+                "answer": "Baking soda"
+            },
+            {
+                "question": "What is the main constituent of natural gas?",
+                "options": [
+                    "Ethane",
+                    "Methane",
+                    "Propane",
+                    "Butane"
+                ],
+                "answer": "Methane"
+            },
+            {
+                "question": "Which of the following is a strong acid?",
+                "options": [
+                    "HCl",
+                    "H2O",
+                    "CH3COOH",
+                    "NaOH"
+                ],
+                "answer": "HCl"
+            },
+            {
+                "question": "The number of protons in an atom defines its:",
+                "options": [
+                    "Atomic number",
+                    "Mass number",
+                    "Isotope",
+                    "Electron configuration"
+                ],
+                "answer": "Atomic number"
+            },
+            {
+                "question": "Which of the following is a chemical change?",
+                "options": [
+                    "Melting of ice",
+                    "Boiling of water",
+                    "Rusting of iron",
+                    "Breaking of glass"
+                ],
+                "answer": "Rusting of iron"
+            },
+            {
+                "question": "Which of the following ions is responsible for acidity in solutions?",
+                "options": [
+                    "OH⁻",
+                    "H⁺",
+                    "Cl⁻",
+                    "Na⁺"
+                ],
+                "answer": "H⁺"
+            },
+            {
+                "question": "The Haber process is used for the production of:",
+                "options": [
+                    "Ammonia",
+                    "Sulfuric acid",
+                    "Nitric acid",
+                    "Methane"
+                ],
+                "answer": "Ammonia"
+            },
+            {
+                "question": "The oxidation state of sulfur in H2SO4 is:",
+                "options": [
+                    "+2",
+                    "+4",
+                    "+6",
+                    "+8"
+                ],
+                "answer": "+6"
+            }
+        ],
+        "duration": 1200
+    }
+}
