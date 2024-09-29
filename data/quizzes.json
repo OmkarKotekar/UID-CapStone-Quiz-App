@@ -202,9 +202,160 @@
                     "Capacitor"
                 ],
                 "answer": "Generator"
+            },
+            {
+                "question": "What is the unit of electric current?",
+                "options": [
+                    "Coulomb",
+                    "Ampere",
+                    "Volt",
+                    "Ohm"
+                ],
+                "answer": "Ampere"
+            },
+            {
+                "question": "Which law states that the force between two charges is directly proportional to the product of the charges and inversely proportional to the square of the distance between them?",
+                "options": [
+                    "Newton's 1st Law",
+                    "Coulomb's Law",
+                    "Ohm's Law",
+                    "Faraday's Law"
+                ],
+                "answer": "Coulomb's Law"
+            },
+            {
+                "question": "What is the value of the acceleration due to gravity on the Moon?",
+                "options": [
+                    "1.62 m/s²",
+                    "3.71 m/s²",
+                    "9.8 m/s²",
+                    "11.2 m/s²"
+                ],
+                "answer": "1.62 m/s²"
+            },
+            {
+                "question": "A transformer works on the principle of:",
+                "options": [
+                    "Electrostatics",
+                    "Electromagnetic induction",
+                    "Newton's Laws",
+                    "Kinetic energy"
+                ],
+                "answer": "Electromagnetic induction"
+            },
+            {
+                "question": "Which of the following materials is a good conductor of electricity?",
+                "options": [
+                    "Glass",
+                    "Rubber",
+                    "Copper",
+                    "Wood"
+                ],
+                "answer": "Copper"
+            },
+            {
+                "question": "Which of the following is an example of non-uniform motion?",
+                "options": [
+                    "A car moving at constant speed",
+                    "A car slowing down",
+                    "A stone falling freely under gravity",
+                    "A spacecraft in orbit"
+                ],
+                "answer": "A car slowing down"
+            },
+            {
+                "question": "The area under the velocity-time graph gives:",
+                "options": [
+                    "Displacement",
+                    "Velocity",
+                    "Acceleration",
+                    "Force"
+                ],
+                "answer": "Displacement"
+            },
+            {
+                "question": "The SI unit of power is:",
+                "options": [
+                    "Joule",
+                    "Newton",
+                    "Watt",
+                    "Pascal"
+                ],
+                "answer": "Watt"
+            },
+            {
+                "question": "What is the wavelength of visible light?",
+                "options": [
+                    "400-700 nm",
+                    "100-200 nm",
+                    "700-1000 nm",
+                    "50-100 nm"
+                ],
+                "answer": "400-700 nm"
+            },
+            {
+                "question": "What happens to the resistance of a conductor when its temperature increases?",
+                "options": [
+                    "Increases",
+                    "Decreases",
+                    "Remains the same",
+                    "Varies non-uniformly"
+                ],
+                "answer": "Increases"
+            },
+            {
+                "question": "Which of the following forces is a contact force?",
+                "options": [
+                    "Gravitational force",
+                    "Magnetic force",
+                    "Friction",
+                    "Electric force"
+                ],
+                "answer": "Friction"
+            },
+            {
+                "question": "Which of the following is not a fundamental force in nature?",
+                "options": [
+                    "Electromagnetic force",
+                    "Gravitational force",
+                    "Nuclear force",
+                    "Centrifugal force"
+                ],
+                "answer": "Centrifugal force"
+            },
+            {
+                "question": "Which color of light has the highest energy?",
+                "options": [
+                    "Red",
+                    "Blue",
+                    "Green",
+                    "Yellow"
+                ],
+                "answer": "Blue"
+            },
+            {
+                "question": "A convex mirror always forms:",
+                "options": [
+                    "Real and inverted images",
+                    "Virtual and erect images",
+                    "Real and diminished images",
+                    "Virtual and magnified images"
+                ],
+                "answer": "Virtual and erect images"
+            },
+            {
+                "question": "In a vacuum, electromagnetic waves travel at:",
+                "options": [
+                    "3 x 10^8 m/s",
+                    "1 x 10^8 m/s",
+                    "5 x 10^8 m/s",
+                    "2 x 10^8 m/s"
+                ],
+                "answer": "3 x 10^8 m/s"
             }
+            
         ],
-        "duration": 1200
+        "duration": 1800
     },
     "mathematics": {
         "title": "MHT-CET Mathematics Quiz",
@@ -409,9 +560,160 @@
                     "270°"
                 ],
                 "answer": "360°"
+            },
+            {
+                "question": "What is the derivative of ln(x)?",
+                "options": [
+                    "1/x",
+                    "x",
+                    "ln(x)",
+                    "0"
+                ],
+                "answer": "1/x"
+            },
+            {
+                "question": "The sum of the angles in a pentagon is:",
+                "options": [
+                    "360°",
+                    "540°",
+                    "720°",
+                    "900°"
+                ],
+                "answer": "540°"
+            },
+            {
+                "question": "What is the integral of cos(x)?",
+                "options": [
+                    "sin(x)",
+                    "-sin(x)",
+                    "cos(x)",
+                    "x"
+                ],
+                "answer": "sin(x)"
+            },
+            {
+                "question": "Which of the following is a prime number?",
+                "options": [
+                    "9",
+                    "15",
+                    "23",
+                    "35"
+                ],
+                "answer": "23"
+            },
+            {
+                "question": "What is the sum of the interior angles of a hexagon?",
+                "options": [
+                    "360°",
+                    "540°",
+                    "720°",
+                    "900°"
+                ],
+                "answer": "720°"
+            },
+            {
+                "question": "The function f(x) = x² is:",
+                "options": [
+                    "Linear",
+                    "Quadratic",
+                    "Cubic",
+                    "Exponential"
+                ],
+                "answer": "Quadratic"
+            },
+            {
+                "question": "The length of the diagonal of a square with side length a is:",
+                "options": [
+                    "a",
+                    "a√2",
+                    "2a",
+                    "a²"
+                ],
+                "answer": "a√2"
+            },
+            {
+                "question": "If two events are independent, the probability of both occurring is:",
+                "options": [
+                    "The product of their probabilities",
+                    "The sum of their probabilities",
+                    "Zero",
+                    "One"
+                ],
+                "answer": "The product of their probabilities"
+            },
+            {
+                "question": "What is the inverse of a 2x2 matrix [[a, b], [c, d]]?",
+                "options": [
+                    "1/(ad-bc) * [[d, -b], [-c, a]]",
+                    "1/(ad+bc) * [[d, -b], [-c, a]]",
+                    "ad-bc",
+                    "[[d, c], [b, a]]"
+                ],
+                "answer": "1/(ad-bc) * [[d, -b], [-c, a]]"
+            },
+            {
+                "question": "The area of a circle with radius r is:",
+                "options": [
+                    "πr²",
+                    "2πr",
+                    "πr",
+                    "r²"
+                ],
+                "answer": "πr²"
+            },
+            {
+                "question": "The derivative of e^x is:",
+                "options": [
+                    "e^x",
+                    "e^(x-1)",
+                    "x*e^x",
+                    "e^(x+1)"
+                ],
+                "answer": "e^x"
+            },
+            {
+                "question": "If the sum of the angles of a triangle is 180°, the triangle is:",
+                "options": [
+                    "Spherical",
+                    "Euclidean",
+                    "Hyperbolic",
+                    "None of these"
+                ],
+                "answer": "Euclidean"
+            },
+            {
+                "question": "The quadratic formula for solving ax² + bx + c = 0 is:",
+                "options": [
+                    "(-b ± √(b² - 4ac)) / 2a",
+                    "(b ± √(b² - 4ac)) / 2a",
+                    "(-b ± √(ac - 4b)) / 2a",
+                    "(a ± √(b² + 4ac)) / 2b"
+                ],
+                "answer": "(-b ± √(b² - 4ac)) / 2a"
+            },
+            {
+                "question": "What is the sum of the first n terms of an arithmetic sequence?",
+                "options": [
+                    "n/2 * (a + l)",
+                    "n/2 * (2a + (n-1)d)",
+                    "n/2 * (a - d)",
+                    "n²/2"
+                ],
+                "answer": "n/2 * (2a + (n-1)d)"
+            },
+            {
+                "question": "If f(x) = x³, what is f'(x)?",
+                "options": [
+                    "3x²",
+                    "2x",
+                    "x²",
+                    "x³"
+                ],
+                "answer": "3x²"
             }
+            
         ],
-        "duration": 1200
+        "duration": 1800
     },
     "chemistry": {
         "title": "MHT-CET Chemistry Quiz",
@@ -616,8 +918,159 @@
                     "+8"
                 ],
                 "answer": "+6"
+            },
+            {
+                "question": "Which element is essential for the formation of proteins?",
+                "options": [
+                    "Nitrogen",
+                    "Oxygen",
+                    "Sulfur",
+                    "Carbon"
+                ],
+                "answer": "Nitrogen"
+            },
+            {
+                "question": "What is the common name for NaCl?",
+                "options": [
+                    "Baking soda",
+                    "Vinegar",
+                    "Table salt",
+                    "Chalk"
+                ],
+                "answer": "Table salt"
+            },
+            {
+                "question": "Which of the following is a chemical property?",
+                "options": [
+                    "Melting point",
+                    "Density",
+                    "Flammability",
+                    "Boiling point"
+                ],
+                "answer": "Flammability"
+            },
+            {
+                "question": "Which of the following processes involves oxidation?",
+                "options": [
+                    "Rusting of iron",
+                    "Melting of ice",
+                    "Boiling water",
+                    "Dissolving salt in water"
+                ],
+                "answer": "Rusting of iron"
+            },
+            {
+                "question": "What is the chemical formula for methane?",
+                "options": [
+                    "CH₄",
+                    "C₂H₆",
+                    "C₃H₈",
+                    "C₄H₁₀"
+                ],
+                "answer": "CH₄"
+            },
+            {
+                "question": "Which of the following is the most abundant gas in Earth's atmosphere?",
+                "options": [
+                    "Oxygen",
+                    "Carbon dioxide",
+                    "Nitrogen",
+                    "Helium"
+                ],
+                "answer": "Nitrogen"
+            },
+            {
+                "question": "Which acid is commonly found in vinegar?",
+                "options": [
+                    "Sulfuric acid",
+                    "Acetic acid",
+                    "Hydrochloric acid",
+                    "Nitric acid"
+                ],
+                "answer": "Acetic acid"
+            },
+            {
+                "question": "What is the molecular formula of glucose?",
+                "options": [
+                    "C₆H₁₂O₆",
+                    "C₁₂H₂₂O₁₁",
+                    "C₆H₁₀O₄",
+                    "C₂H₅OH"
+                ],
+                "answer": "C₆H₁₂O₆"
+            },
+            {
+                "question": "Which of the following is an example of a strong acid?",
+                "options": [
+                    "H₂O",
+                    "CH₃COOH",
+                    "HCl",
+                    "NH₃"
+                ],
+                "answer": "HCl"
+            },
+            {
+                "question": "Which of the following compounds is ionic?",
+                "options": [
+                    "H₂O",
+                    "NaCl",
+                    "CH₄",
+                    "CO₂"
+                ],
+                "answer": "NaCl"
+            },
+            {
+                "question": "What is the pH of a solution with equal concentrations of H⁺ and OH⁻ ions?",
+                "options": [
+                    "0",
+                    "7",
+                    "14",
+                    "Neutral"
+                ],
+                "answer": "7"
+            },
+            {
+                "question": "Which of the following is a property of nonmetals?",
+                "options": [
+                    "Good conductor of electricity",
+                    "Brittle when solid",
+                    "Ductile",
+                    "Malleable"
+                ],
+                "answer": "Brittle when solid"
+            },
+            {
+                "question": "Which gas is evolved when hydrochloric acid reacts with zinc?",
+                "options": [
+                    "Oxygen",
+                    "Carbon dioxide",
+                    "Hydrogen",
+                    "Nitrogen"
+                ],
+                "answer": "Hydrogen"
+            },
+            {
+                "question": "Which of the following is the lightest element?",
+                "options": [
+                    "Oxygen",
+                    "Helium",
+                    "Hydrogen",
+                    "Carbon"
+                ],
+                "answer": "Hydrogen"
+            },
+            {
+                "question": "Which of the following describes a covalent bond?",
+                "options": [
+                    "Transfer of electrons",
+                    "Sharing of electrons",
+                    "Attraction between ions",
+                    "Repulsion between protons"
+                ],
+                "answer": "Sharing of electrons"
             }
+            
         ],
-        "duration": 1200
+        "duration": 1800
     }
 }
